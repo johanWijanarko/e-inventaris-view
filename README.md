@@ -12,8 +12,10 @@
 ## About E- Inventaris
 Aplikasi ini dibuat untuk mempermudah pencatatan Inventaris perusahaan berupa perangkat, peralatan kantor, aplikasi dan inventaris lainnya.Agar data inventaris perusahan bisa tercatat dan mudah untuk mencari history barang/aplikasi yang di inventariskan.
 Aplikasi ini dibangun menggunakan Laravel 8 dan template blade.
-Diskirpis ini hanya view untuk aplikasi inventaris, jika ada yang berminat bisa mengirimkan email ke johantrwi@gmail.com/ webjohan123@gmail.com
+Diskirpis ini hanya view untuk aplikasi inventaris, jika ada yang berminat / ingin melihat demo aplikasi bisa mengirimkan email ke johantrwi@gmail.com/ webjohan123@gmail.com
 
+Untuk View Demo : http://inventaris.johanwijanarko.my.id/
+User dan Password bisa request kirim email
 ## Tampilan Login
 ![Screenshot 2022-04-17 223059](https://user-images.githubusercontent.com/67511127/163721454-258763ee-8b8d-4460-ad3f-6e294e0dfb36.jpg)
 
